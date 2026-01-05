@@ -10,20 +10,7 @@
 # Etape C :
 <img width="1093" height="309" alt="image-2" src="https://github.com/user-attachments/assets/ddbab232-9a69-4482-8fb7-0a6fbd1817b9" />
 
-# Etape D :
-<img width="1074" height="244" alt="image-3" src="https://github.com/user-attachments/assets/da97cbf8-d621-4d29-b5fa-134bca96acf0" />
-
-# Etape E :
-<img width="1096" height="462" alt="image-4" src="https://github.com/user-attachments/assets/3e78b2c1-8596-476b-8a70-ad2d578b0aac" />
-
-# Etape F1 :
-<img width="1082" height="157" alt="image-5" src="https://github.com/user-attachments/assets/135d860b-d552-4c68-8b0c-f3ec4c6949f1" />
-
-# Etape F2 :
-<img width="1084" height="248" alt="image-6" src="https://github.com/user-attachments/assets/804f1a94-f7c7-47fb-b749-52d10162dc35" />
-
-# Etape F3 :
-<img width="1091" height="650" alt="image-7" src="https://github.com/user-attachments/assets/604f9cda-ecad-4b4f-b0a2-2e1e1ac454a2" />
+2-2e1e1ac454a2" />
 
 # Etape F4 :
 <img width="1081" height="296" alt="image-8" src="https://github.com/user-attachments/assets/6035ab5b-7f91-422e-b077-b1288086ef01" />
